@@ -1,4 +1,4 @@
-package javaParte_I;
+package javaParte_I.laboratorios;
 
 /*A – Somando dois valores e mostrando o resultado
 1. Crie uma classe e insira a estrutura básica de um programa Java;

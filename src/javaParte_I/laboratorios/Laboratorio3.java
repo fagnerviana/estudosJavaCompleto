@@ -1,4 +1,4 @@
-package javaParte_I;
+package javaParte_I.laboratorios;
 
 import java.util.Scanner;
 
